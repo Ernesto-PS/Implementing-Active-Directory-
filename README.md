@@ -1,6 +1,7 @@
 # Implementing-Active-Directory-
 
 **Overview**
+
 This project builds on the previously configured SAVN.local virtual network by implementing Active Directory Domain Services (AD DS) & Joining a Domain. The EPS-SP24-S22-1 server will be configured as the domain controller, and the other two virtual machines (EPS-SP24-S22-2 & EPS-SP24-W10-1) will be joined to the domain.
 
 **Objectives**
